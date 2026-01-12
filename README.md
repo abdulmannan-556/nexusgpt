@@ -1,11 +1,11 @@
-NexusGPT — A full-stack ChatGPT-like AI chat app powered by Cloudflare Workers and React.
-This repository includes a React frontend hosted on GitHub Pages and a Cloudflare Worker backend that uses Cloudflare AI Gateway (or Workers AI) to generate responses.
-Features:
+# NexusGPT
 
-Stateful chat history
+A ChatGPT‑like AI chat application using:
 
-Clean, responsive UI
+- React frontend (GitHub Pages)
+- Cloudflare Worker backend (AI Gateway)
 
-CORS-enabled API
+## Setup
 
-Easy deployment via GitHub Pages and Cloudflare
+### Frontend
+
